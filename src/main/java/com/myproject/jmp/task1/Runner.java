@@ -1,4 +1,4 @@
-package com.myprpject.jmp.task1;
+package com.myproject.jmp.task1;
 
 /**
  * Created by Siarhei on 02.12.2015.
