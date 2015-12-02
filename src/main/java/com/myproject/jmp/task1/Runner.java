@@ -5,6 +5,6 @@ package com.myproject.jmp.task1;
  */
 public class Runner {
     public static void main(String[] args) {
-
+        System.out.println("test");
     }
 }
